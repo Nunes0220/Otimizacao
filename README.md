@@ -11,21 +11,21 @@ Foram avaliados quatro algoritmos supervisionados:
 
 - DecisionTreeClassifier
 - KNeighborsClassifier
--LogisticRegression
--RandomForestClassifier
+- LogisticRegression
+- RandomForestClassifier
 
 Cada algoritmo foi testado em três cenários distintos de balanceamento de dados:
 
--SMOTE (oversampling da classe minoritária)
--NearMiss (undersampling da classe majoritária)
--SMOTEN (versão nominal do SMOTE)
+- SMOTE (oversampling da classe minoritária)
+- NearMiss (undersampling da classe majoritária)
+- SMOTEN (versão nominal do SMOTE)
 
 Para cada combinação de algoritmo e técnica de balanceamento, foram calculadas as seguintes métricas de desempenho:
 
--Acurácia
--Precisão
--Recall (métrica principal)
--F1-score
+- Acurácia
+- Precisão
+- Recall (métrica principal)
+- F1-score
 
 ✨ Destaque: KNeighborsClassifier com NearMiss
 
