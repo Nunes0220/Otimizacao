@@ -5,6 +5,8 @@ Este projeto teve como objetivo principal identificar clientes inadimplentes uti
 
 A base de dados original apresentava um sério desbalanceamento entre classes, com uma quantidade muito maior de clientes adimplentes em relação aos inadimplentes. Isso exigiu a aplicação de estratégias de balanceamento para garantir uma aprendizagem mais eficaz dos modelos.
 
+Base de dados utilizada desponibvel em https://raw.githubusercontent.com/Nunes0220/Valida-o_de_Modelos/refs/heads/main/emp_automovel.csv
+
 📊 Métodos de Classificação Avaliados
 
 Foram avaliados quatro algoritmos supervisionados:
