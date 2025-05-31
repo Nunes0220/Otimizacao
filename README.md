@@ -1,7 +1,7 @@
 ## Otimização de modelos de classificação</h2>
 
 ## Table of Contents
-- [Sobre o Projeto](#-about)
+- [Sobre o Projeto](#-Sobre o Projeto)
 - [Technologies](#%EF%B8%8F-contacts)
 - [Authors](#-Authors)
 - [Contacts](#%EF%B8%8F-contacts)
